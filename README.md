@@ -56,7 +56,7 @@ Build-in-public is about **visible progress**: daily build logs, dev.to write-up
 
 <p>
   <a href="https://ton.org"><img alt="Built on TON" src="https://img.shields.io/badge/Built_on-TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" /></a>
-  <a href="https://github.com/FronexHQ"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-FronexHQ-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/fronexhq"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-FronexHQ-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---

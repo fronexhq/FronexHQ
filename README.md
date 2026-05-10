@@ -49,7 +49,7 @@ Build-in-public is about **visible progress**: daily build logs, dev.to write-up
 
 <p>
   <a href="https://x.com/fronexhq"><img alt="@fronexhq on X" src="https://img.shields.io/badge/%40fronexhq-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/fronexhq"><img alt="@fronexhq on Telegram" src="https://img.shields.io/badge/%40fronexhq-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/fronex_official"><img alt="@fronex_official on Telegram" src="https://img.shields.io/badge/%40fronex__official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://t.me/fronexfun"><img alt="@fronexfun community group" src="https://img.shields.io/badge/%40fronexfun-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://t.me/fronexfun_bot"><img alt="Open the Mini App in Telegram" src="https://img.shields.io/badge/Open_Mini_App-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>

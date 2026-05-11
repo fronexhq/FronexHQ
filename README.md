@@ -34,7 +34,7 @@ Fronex.fun ships into a **39-day live operations window** during WC2026 (Jun 11 
 |---|---|---|
 | `fronex.xyz` | Private | Goes **public** once the core public-site + admin implementation lands |
 | `fronex-contracts` | *Not yet created* | Will be extracted from `fronex.fun/contracts/` and published **public** once Tact contracts are implemented + tested |
-| `fronex.fun` | Private | Stays **private** — matching engine, oracles, multi-vault treasury are the moat |
+| `fronex.fun` | Private | Stays **private** — matching engine, oracles, sharded-treasury orchestration are the moat |
 | `fronex.bio` | Private | Stays **private** — the AI tool *is* the v1 SaaS product |
 
 Build-in-public is about **visible progress**: daily build logs, dev.to write-ups, on-chain auditable contracts (once they ship), the running product. Not a full-source dump.

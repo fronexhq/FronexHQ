@@ -20,7 +20,7 @@ Prediction infrastructure on TON · AI marketing tools for crypto founders · th
 |---|---|---|
 | **fronex.fun** | Telegram-native prediction Mini App on TON. Five pillars: ⚽ soccer · 💰 crypto · 🎬 entertainment · 🌦️ climate · 🌐 community-custom. | Public launch **June 7, 2026** |
 | **fronex.xyz** | Studio website + unified admin dashboard at `admin.fronex.xyz`. | Launches with fronex.fun |
-| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation in 17 launch languages. | v0 internal · v1 public SaaS post-WC |
+| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation in 8 launch languages. | v0 internal · v1 public SaaS post-WC |
 
 ## WC2026 — the launch window
 

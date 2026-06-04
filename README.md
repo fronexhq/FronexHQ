@@ -20,11 +20,11 @@ Prediction infrastructure on TON · AI marketing tools for crypto founders · th
 |---|---|---|
 | **fronex.fun** | Telegram-native prediction Mini App on TON. Five pillars: ⚽ soccer · 💰 crypto · 🎬 entertainment · 🌦️ climate · 🌐 community-custom. | Public launch **June 7, 2026** |
 | **fronex.xyz** | Studio website + unified admin dashboard at `admin.fronex.xyz`. | Launches with fronex.fun |
-| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation in 8 launch languages. | v0 internal · v1 public SaaS post-WC |
+| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation. | v0 internal · v1 public SaaS **Sep 1, 2026** |
 
 ## WC2026 — the launch window
 
-Fronex.fun ships into a **39-day live operations window** during WC2026 (Jun 11 – Jul 19). 104 matches, 5-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and a **Bracket Challenge** tournament with a $500 USDT seed prize pool. Free Round 1, $1 USDT Round 2.
+Fronex.fun ships into a **39-day live operations window** during WC2026 (Jun 11 – Jul 19). 104 matches, multi-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and a **Bracket Challenge** tournament with a $500 USDT seed prize pool. Free Round 1, $1 USDT Round 2.
 
 ## Repo strategy
 
@@ -49,8 +49,8 @@ Build-in-public is about **visible progress**: daily build logs, dev.to write-up
 
 <p>
   <a href="https://x.com/fronexhq"><img alt="@fronexhq on X" src="https://img.shields.io/badge/%40fronexhq-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/fronex_official"><img alt="@fronex_official on Telegram" src="https://img.shields.io/badge/%40fronex__official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/fronex_community"><img alt="@fronex_community on Telegram" src="https://img.shields.io/badge/%40fronex__community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:admin@fronex.xyz"><img alt="admin@fronex.xyz" src="https://img.shields.io/badge/admin%40fronex.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/sA4HFvjjv"><img alt="Discord community" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/fronexfun_bot"><img alt="Open the Mini App in Telegram" src="https://img.shields.io/badge/Open_Mini_App-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 

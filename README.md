@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fronex.fun">
-    <img src="banner.jpg" alt="Fronex — Predict the next frontier · Launching June 7, 2026 · 4 days before WC2026 kickoff · First prediction Mini App on TON" width="100%" />
+    <img src="banner.jpg" alt="Fronex — Predict the next frontier · Live since June 7, 2026 · First prediction Mini App on TON" width="100%" />
   </a>
 </p>
 
@@ -18,26 +18,26 @@ Prediction infrastructure on TON · AI marketing tools for crypto founders · th
 
 | | What it is | Status |
 |---|---|---|
-| **fronex.fun** | Telegram-native prediction Mini App on TON. Five pillars: ⚽ soccer · 💰 crypto · 🎬 entertainment · 🌦️ climate · 🌐 community-custom. | Public launch **June 7, 2026** |
-| **fronex.xyz** | Studio website + unified admin dashboard at `admin.fronex.xyz`. | Launches with fronex.fun |
-| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation. | v0 internal · v1 public SaaS **Sep 1, 2026** |
+| **fronex.fun** | Telegram-native prediction Mini App on TON. Five pillars: ⚽ soccer · 💰 crypto · 🎬 entertainment · 🌦️ climate · 🌐 community-custom. | **Live & public** since June 7, 2026 |
+| **fronex.xyz** | Studio website + unified admin dashboard at `admin.fronex.xyz`. | **Live** with fronex.fun |
+| **fronex.bio** | AI marketing tool for crypto founders. Brand-safe content generation. | v0 internal (live) · v1 public SaaS **Sep 1, 2026** |
 
 ## WC2026 — the launch window
 
-Fronex.fun ships into a **39-day live operations window** during WC2026 (Jun 11 – Jul 19). 104 matches, multi-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and a **Bracket Challenge** tournament with a $500 USDT seed prize pool. Free Round 1, $1 USDT Round 2.
+Fronex.fun is live through the **39-day live operations window** of WC2026 (Jun 11 – Jul 19) — Group Stage now in progress. 104 matches, multi-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and a **Bracket Challenge** tournament with a $500 USDT seed prize pool. Free Round 1, $1 USDT Round 2.
 
 ## Repo strategy
 
-**Open contracts, transparent process, closed product.** All repos are private today; visibility flips on milestones, not calendar dates.
+**Open contracts, transparent process, closed product.** The public marketing site and the on-chain contracts are public; the product repos stay private. Visibility flips on milestones, not calendar dates.
 
-| Repo | Today | Trajectory |
+| Repo | Visibility | Notes |
 |---|---|---|
-| `fronex.xyz` | Private | Goes **public** once the core public-site + admin implementation lands |
-| `fronex-contracts` | *Not yet created* | Will be extracted from `fronex.fun/contracts/` and published **public** once Tact contracts are implemented + tested |
+| `fronex.xyz` | **Public** | Public marketing site + admin — no product IP. Milestone met (live since Jun 7, 2026). |
+| `fronex-contracts` | **Public (planned)** | Open-contracts policy — Tact source + tests + deployments to be extracted from `fronex.fun/contracts/` and published. Contracts are already live on TON mainnet (on-chain bytecode auditable since GA); the source-repo publication follows the audit/extraction milestone. |
 | `fronex.fun` | Private | Stays **private** — matching engine, oracles, sharded-treasury orchestration are the moat |
 | `fronex.bio` | Private | Stays **private** — the AI tool *is* the v1 SaaS product |
 
-Build-in-public is about **visible progress**: daily build logs, dev.to write-ups, on-chain auditable contracts (once they ship), the running product. Not a full-source dump.
+Build-in-public is about **visible progress**: daily build logs, dev.to write-ups, on-chain auditable contracts (live on TON mainnet since GA), the running product. Not a full-source dump.
 
 ## Find us
 

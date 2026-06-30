@@ -24,7 +24,7 @@ Prediction infrastructure on TON · AI marketing tools for crypto founders · th
 
 ## WC2026 — the launch window
 
-Fronex.fun is live through the **39-day live operations window** of WC2026 (Jun 11 – Jul 19) — Group Stage now in progress. 104 matches, multi-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and a **Bracket Challenge** tournament with a $500 USDT seed prize pool. Free Round 1, $1 USDT Round 2.
+Fronex.fun is live through the **39-day live operations window** of WC2026 (Jun 11 – Jul 19) — now in the **knockout stage** (Group Stage ran Jun 11–27; Round of 32 underway since Jun 28). 104 matches, multi-source oracle redundancy, real-time price-history charts on every market, multi-outcome books, and **Leagues** — community-run prediction tournaments over markets like the World Cup knockout rounds (free bragging-rights leagues for everyone; paid prize pools run by approved organizers).
 
 ## Repo strategy
 
